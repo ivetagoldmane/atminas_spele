@@ -1,0 +1,17 @@
+.wrapper
+{ background: rgb(192, 115, 115);}
+h1
+{ text-align: center;background: chocolate;} 
+ul
+{text-align: center;}
+li
+{ display: inline-block;}
+
+.game
+{width: 350px; }
+.block
+{ display: inline-block; 
+background: darkcyan;
+width: 100px;
+height: 100px;
+border:1px solid white;}
